@@ -1,1 +1,1 @@
-export const Provider = 'ordinals.com'
+export const Provider = 'https://ordinals.com'
